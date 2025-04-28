@@ -9,8 +9,6 @@
 - Backend: Django + Django REST Framework
   
 - Frontend: Angular
-  
-- Deployment: Vercel (frontend), Render/Heroku (backend)
 
 ## 🚀 **Установка и запуск**
 
