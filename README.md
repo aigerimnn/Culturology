@@ -9,12 +9,21 @@
 - Backend: Django + Django REST Framework
   
 - Frontend: Angular
+<<<<<<< HEAD
   
 - Deployment: Vercel (frontend), Render/Heroku (backend)
 
 ## 🚀 **Установка и запуск**
 
 ### Backend (Django)
+=======
+
+## 🚀 **Установка и запуск**
+
+### 🛠️ Backend (Django)
+
+Перейдите в папку проекта и выполните следующие команды:
+>>>>>>> 76e767fe5412d73027db278c7c13611daafe9d75
 
 cd backend
 
@@ -28,7 +37,13 @@ python manage.py migrate
 
 python manage.py runserver
 
+<<<<<<< HEAD
 ### Frontend (Angular) 
+=======
+### 🎨 Frontend (Angular) 
+
+Перейдите в папку проекта и выполните следующие команды:
+>>>>>>> 76e767fe5412d73027db278c7c13611daafe9d75
 
 cd frontend
 
